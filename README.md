@@ -1,18 +1,18 @@
-Date: 
+Date: 27/05/2011
 Team: Algebros*
 
 # Algebros
 BUBT Intra University Programming contest Fall 2020-2021 (MOCK)
 
-# Sohel Ahmed Jony
+## Sohel Ahmed Jony
 Computer Programmer And a Scented Soul
 http://jony-blog.github.io/about/
 
-# TESLA
+## TESLA
 Front-end, Founder
 Rajieb / Dhaka, Bangladesh / Bangladesh University of Business & Technology 
 https://stringsight.blogspot.com/p/info.html
 
-# 
+## Rabiul Rahat
 Computer Programmer And Thinker.
 https://www.facebook.com/rabiul.rahat0
